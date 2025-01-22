@@ -33,7 +33,7 @@ Access the live Power BI dashboard using the link below:
 Below are some screenshots of the dashboard for a quick preview. Upload your screenshots to the `images` folder in this repository and link them here.
 
 ### Example:
-![Dashboard Overview](images/dashboard-overview.png)
+![Dashboard Overview](images/Screenshot 2025-01-22 212025.png)
 *Overview of the dashboard showcasing key metrics and charts.*
 
 ![Region-Based Filtering](images/region-filter.png)

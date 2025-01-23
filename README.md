@@ -36,7 +36,7 @@ Below are some screenshots of the dashboard for a quick preview. Upload your scr
 ![Dashboard Preview](./images/Screenshot%202025-01-22%20212025.png) 
 *Overview of the dashboard showcasing key metrics and charts.*
 
-![Region-Based Filtering](./images/Screenshot%2025-01-22%212044.png)
+![Region-Based Filtering](./images/Screenshot%202025-01-22%20212044.png) 
 *Detailed view with region-based filtering applied.*
 
 ---

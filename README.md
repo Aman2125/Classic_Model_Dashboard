@@ -58,7 +58,7 @@ Below are some screenshots of the dashboard for a quick preview. Upload your scr
 We value your feedback! If you have suggestions or questions, feel free to reach out.
 
 **Author**: Aman Kumar Gupta  
-📧 [Your Email Address] (Optional)
+📧 [22it3005@rgipt.ac.in]
 
 ---
 
